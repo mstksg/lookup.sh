@@ -58,7 +58,6 @@ API_FIELDS="searchInformation(totalResults),items(title,snippet,displayLink,link
 LOOKUP_WEB_CX="008385802859680878879:gfxp9yb-ftc"
 LOOKUP_WIKI_CX="008385802859680878879:ll_kgxmu77i"
 LOOKUP_NEWS_CX="008385802859680878879:euodv4frpji"
-# LOOKUP_API_KEY="AIzaSyCr2COjnsQQ-3yXIToX7tsf07jlw5xQdnE"
 
 # initialize options
 LOOKUP_NUM_RESULTS=5
